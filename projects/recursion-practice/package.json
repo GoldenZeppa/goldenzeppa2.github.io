@@ -22,7 +22,7 @@
   "homepage": "https://github.com/OperationSpark/recursion-prompts#readme",
   "dependencies": {
     "chai": "^4.1.2",
-    "mocha": "^5.2.0",
+    "mocha": "^10.2.0",
     "sinon": "^5.0.10"
   }
 }
